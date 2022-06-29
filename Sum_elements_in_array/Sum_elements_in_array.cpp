@@ -24,4 +24,6 @@ int main()
     }
     cout << endl;
     cout <<"Sum = "<< temp;
+
+    return 0;
 }

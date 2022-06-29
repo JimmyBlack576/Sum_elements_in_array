@@ -21,7 +21,6 @@ int main()
             temp += arr[i];
         }
         cout << arr[i] << " ";
-        
     }
     cout << endl;
     cout <<"Sum = "<< temp;
